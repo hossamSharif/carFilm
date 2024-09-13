@@ -1,0 +1,6 @@
+       
+<svg width="100vw" height="200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,100 Q50,150 100,100 Q150,50 200,100 Q250,150 300,100 Q350,50 400,100 Q450,150 500,100 Q550,50 600,100 Q650,150 700,100 Q750,50 800,100 Q850,150 900,100 Q950,50 1000,100" 
+        stroke="gray" fill="transparent" stroke-width="5"/>
+        
+</svg>
